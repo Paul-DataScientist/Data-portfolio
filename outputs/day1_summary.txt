@@ -1,0 +1,17 @@
+# Netflix Movies (≥2015) — Day 1 Summary
+- Original rows: 8807
+- Filtered rows: 4017
+- Year range: 2015–2021
+- Unique countries: 472
+
+Top 10 Genres:
+- International Movies: 1845
+- Dramas: 1564
+- Comedies: 948
+- Documentaries: 730
+- Independent Movies: 548
+- Action & Adventure: 430
+- Thrillers: 404
+- Children & Family Movies: 397
+- Romantic Movies: 359
+- Stand-Up Comedy: 273
