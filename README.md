@@ -39,10 +39,9 @@ This portfolio will grow with:
 - **AI-driven product prototypes**  
 
 Follow this repo ⭐ to see new projects as I build my way towards **AI Product Development**.
-I've finished DAY 1.
+I've completed the Day 1.
 
 ---
-
 
 
 
